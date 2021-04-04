@@ -10,7 +10,6 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.googleanalytics.db.Adapter
 import com.example.googleanalytics.model.head
 import kotlinx.android.synthetic.main.clotheslayout1.view.*
-import kotlinx.android.synthetic.main.electroinclayout.view.*
 
 class FragmentElectrionc : Fragment() {
 

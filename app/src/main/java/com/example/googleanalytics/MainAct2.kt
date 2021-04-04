@@ -21,7 +21,7 @@ class MainAct2  : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.menumwk)
+        setContentView(R.layout.clotheslayout1)
 
         sharedPreferences = getSharedPreferences("data", Context.MODE_PRIVATE)
         sharedPreferences = getSharedPreferences("userID", Context.MODE_PRIVATE)

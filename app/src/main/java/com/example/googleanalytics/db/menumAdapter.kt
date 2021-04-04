@@ -25,7 +25,7 @@ class menumAdapter(var activity: Activity, var data: MutableList<head>) :
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MyViewHolderNew {
-        val itemView = LayoutInflater.from(parent.context).inflate(R.layout.clotheslayout1, parent, false)
+        val itemView = LayoutInflater.from(parent.context).inflate(R.layout.menumwk, parent, false)
         return MyViewHolderNew(
             itemView
         )

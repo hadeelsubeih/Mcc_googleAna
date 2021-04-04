@@ -13,7 +13,6 @@ import com.example.googleanalytics.db.Adapter
 import com.example.googleanalytics.model.head
 import com.google.firebase.analytics.FirebaseAnalytics
 import kotlinx.android.synthetic.main.clotheslayout1.view.*
-import kotlinx.android.synthetic.main.foodlayout.view.*
 import java.util.concurrent.TimeUnit
 
 class FragmentFood : Fragment() {
